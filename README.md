@@ -18,6 +18,8 @@
 <img align="center" alt="node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 </div></br>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anatecnologia&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Apaixonada por tecnologia! ❤️
 
 
